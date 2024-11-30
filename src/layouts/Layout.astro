@@ -23,6 +23,14 @@ const currentPage = Astro.url.pathname;
 		<meta name="generator" content={Astro.generator} />
 		<!-- Tambahkan meta tag Google di sini -->
 		<meta name="google-site-verification" content="QJF29kqwXvOVc8NotZzANPDug_OcJa3xkbaoTYxbdFY" />
+		<!-- Google Analytics -->
+<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-6D8MJ4M4PX"></script>
+<script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)}
+    gtag('js', new Date());
+    gtag('config', 'G-6D8MJ4M4PX');
+</script>
 		<title>{title} - People Also Ask</title>
 	</head>
 	<body>
