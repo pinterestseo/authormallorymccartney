@@ -6,907 +6,844 @@ const PAGES_DIR = './src/pages/question';
 
 const questions = [
   {
-    id: 1732944576959,
-    title: "Sharing Festive Cheer: Boss Holiday Card Message for Friends",
-    description: "Comprehensive guide about Sharing Festive Cheer: Boss Holiday Card Message for Friends",
-    slug: "boss-holiday-card-message-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733041191541,
+    title: "Warm December Wishes for the Holidays and Beyond:  Glowing with Festive Cheer",
+    description: "Comprehensive guide about Warm December Wishes for the Holidays and Beyond:  Glowing with Festive Cheer",
+    slug: "warm-december-wishes-for-the-holidays-and-beyond",
+    category: "December-Messages"
   },
   {
-    id: 1732944557176,
-    title: "Bright Holiday Card Messages Corporate 2024: Sharing Cheer!",
-    description: "Comprehensive guide about Bright Holiday Card Messages Corporate 2024: Sharing Cheer!",
-    slug: "holiday-card-messages-corporate-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733041175193,
+    title: "December Messages for All the Good Things in Life: Glowing with Holiday Cheer",
+    description: "Comprehensive guide about December Messages for All the Good Things in Life: Glowing with Holiday Cheer",
+    slug: "december-messages-for-all-the-good-things-in-life",
+    category: "December-Messages"
   },
   {
-    id: 1732944539462,
-    title: "Merry Creative Work Holiday Card Messages: Spreading Cheer!",
-    description: "Comprehensive guide about Merry Creative Work Holiday Card Messages: Spreading Cheer!",
-    slug: "creative-work-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733041160701,
+    title: "Merry December Greeting for a Wonderful Holiday Season: Warming Hearts with Festive Cheer",
+    description: "Comprehensive guide about Merry December Greeting for a Wonderful Holiday Season: Warming Hearts with Festive Cheer",
+    slug: "merry-december-greeting-for-a-wonderful-holiday-season",
+    category: "December-Messages"
   },
   {
-    id: 1732944520837,
-    title: "Share Joyful Laughter: Best Funny Holiday Card Messages",
-    description: "Comprehensive guide about Share Joyful Laughter: Best Funny Holiday Card Messages",
-    slug: "best-funny-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733041141689,
+    title: "Warmest Peaceful December Wish for All My Family Members",
+    description: "Comprehensive guide about Warmest Peaceful December Wish for All My Family Members",
+    slug: "peaceful-december-wish-for-all-my-family-members",
+    category: "December-Messages"
   },
   {
-    id: 1732944502235,
-    title: "Sparkling Creative Business Holiday Card Messages for Employees",
-    description: "Comprehensive guide about Sparkling Creative Business Holiday Card Messages for Employees",
-    slug: "creative-business-holiday-card-messages-for-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733041124632,
+    title: "Sharing Thoughtful December Card Messages Through Winter's Gleam",
+    description: "Comprehensive guide about Sharing Thoughtful December Card Messages Through Winter's Gleam",
+    slug: "thoughtful-december-card-message-to-spread-joy",
+    category: "December-Messages"
   },
   {
-    id: 1732944484155,
-    title: "Merry Holidays Messages Greeting Cards 2024: Spreading Festive Cheer",
-    description: "Comprehensive guide about Merry Holidays Messages Greeting Cards 2024: Spreading Festive Cheer",
-    slug: "holidays-messages-greeting-cards-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733041109605,
+    title: "December Greetings for a Fresh Start in the Coming Year:  Warmth & New Beginnings",
+    description: "Comprehensive guide about December Greetings for a Fresh Start in the Coming Year:  Warmth & New Beginnings",
+    slug: "december-greetings-for-a-fresh-start-in-the-coming-year",
+    category: "December-Messages"
   },
   {
-    id: 1732944465486,
-    title: "Bright Holiday Card Corporate Messages 2024: Sharing Cheer!",
-    description: "Comprehensive guide about Bright Holiday Card Corporate Messages 2024: Sharing Cheer!",
-    slug: "holiday-card-corporate-messages-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733041093447,
+    title: "Sweet December Message to Send to My Boyfriend or Girlfriend:  Glowing Winter Wishes",
+    description: "Comprehensive guide about Sweet December Message to Send to My Boyfriend or Girlfriend:  Glowing Winter Wishes",
+    slug: "sweet-december-message-to-send-to-my-boyfriend-or-girlfriend",
+    category: "December-Messages"
   },
   {
-    id: 1732944446771,
-    title: "Merry Holiday Card Message to Employees 2024: Joyful Season's Greetings",
-    description: "Comprehensive guide about Merry Holiday Card Message to Employees 2024: Joyful Season's Greetings",
-    slug: "holiday-card-message-to-employees-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733041077025,
+    title: "December Wishes for Reflection and Gratitude: Warming Winter Hearts",
+    description: "Comprehensive guide about December Wishes for Reflection and Gratitude: Warming Winter Hearts",
+    slug: "december-wishes-for-reflection-and-gratitude",
+    category: "December-Messages"
   },
   {
-    id: 1732944428864,
-    title: "Bright Boss Holiday Card Message Ideas: Spreading Cheer This Season",
-    description: "Comprehensive guide about Bright Boss Holiday Card Message Ideas: Spreading Cheer This Season",
-    slug: "boss-holiday-card-message-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733041060915,
+    title: "December Blessings for a Great Start to the New Year: Glowing With Holiday Cheer",
+    description: "Comprehensive guide about December Blessings for a Great Start to the New Year: Glowing With Holiday Cheer",
+    slug: "december-blessings-for-a-great-start-to-the-new-year",
+    category: "December-Messages"
   },
   {
-    id: 1732944410240,
-    title: "Sparkling Creative Holiday Messages for Cards to Employees",
-    description: "Comprehensive guide about Sparkling Creative Holiday Messages for Cards to Employees",
-    slug: "creative-holiday-messages-for-cards-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733041041352,
+    title: "Warming December Encouragement Messages Through Festive Cheer",
+    description: "Comprehensive guide about Warming December Encouragement Messages Through Festive Cheer",
+    slug: "december-encouragement-messages-to-help-others",
+    category: "December-Messages"
   },
   {
-    id: 1732944392111,
-    title: "Sharing Merry Messages on Some Holiday Cards Crossword Clue for Family",
-    description: "Comprehensive guide about Sharing Merry Messages on Some Holiday Cards Crossword Clue for Family",
-    slug: "message-on-some-holiday-cards-crossword-clue-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733041023769,
+    title: "Warm December Message for Appreciating the Year's Gleaming Moments",
+    description: "Comprehensive guide about Warm December Message for Appreciating the Year's Gleaming Moments",
+    slug: "december-message-for-appreciating-the-good-moments-of-the-year",
+    category: "December-Messages"
   },
   {
-    id: 1732944372414,
-    title: "Merry, Funny Best Holiday Card Messages: Spreading Cheer!",
-    description: "Comprehensive guide about Merry, Funny Best Holiday Card Messages: Spreading Cheer!",
-    slug: "funny-best-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733041006721,
+    title: "Sharing Joyful December Messages for All My Relatives:  Warmth Through Winter's Glow",
+    description: "Comprehensive guide about Sharing Joyful December Messages for All My Relatives:  Warmth Through Winter's Glow",
+    slug: "joyful-december-messages-for-all-my-relatives",
+    category: "December-Messages"
   },
   {
-    id: 1732944353584,
-    title: "Merry Cheers! Funny Holiday Card Messages Corporate Bring Festive Joy",
-    description: "Comprehensive guide about Merry Cheers! Funny Holiday Card Messages Corporate Bring Festive Joy",
-    slug: "funny-holiday-card-messages-corporate",
-    category: "Holiday-Card-Messages"
+    id: 1733040989914,
+    title: "December Blessings for a Beautiful Holiday Season:  Glowing Warmth & Festive Cheer",
+    description: "Comprehensive guide about December Blessings for a Beautiful Holiday Season:  Glowing Warmth & Festive Cheer",
+    slug: "december-blessings-for-a-beautiful-holiday-season",
+    category: "December-Messages"
   },
   {
-    id: 1732944335796,
-    title: "Merry Cheerful Funny Holiday Card Messages for Teachers",
-    description: "Comprehensive guide about Merry Cheerful Funny Holiday Card Messages for Teachers",
-    slug: "funny-holiday-card-messages-for-teachers",
-    category: "Holiday-Card-Messages"
+    id: 1733040975370,
+    title: "Sharing Fun and Light December Messages Through Winter's Glow",
+    description: "Comprehensive guide about Sharing Fun and Light December Messages Through Winter's Glow",
+    slug: "fun-and-light-december-messages-for-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732944316867,
-    title: "Share Joyful Unique Funny Holiday Card Messages This Season",
-    description: "Comprehensive guide about Share Joyful Unique Funny Holiday Card Messages This Season",
-    slug: "unique-funny-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733040959756,
+    title: "December Messages to My Partner Filled With Glowing Love",
+    description: "Comprehensive guide about December Messages to My Partner Filled With Glowing Love",
+    slug: "december-messages-to-my-partner-filled-with-love",
+    category: "December-Messages"
   },
   {
-    id: 1732944297025,
-    title: "Spread Merry Cheer with Holiday Card Funny Messages Ideas",
-    description: "Comprehensive guide about Spread Merry Cheer with Holiday Card Funny Messages Ideas",
-    slug: "holiday-card-funny-messages-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733040942393,
+    title: "December Messages for Sending Warm Hugs to Family:  Glowing Winter Wishes",
+    description: "Comprehensive guide about December Messages for Sending Warm Hugs to Family:  Glowing Winter Wishes",
+    slug: "december-messages-for-sending-warm-hugs-to-family",
+    category: "December-Messages"
   },
   {
-    id: 1732944276337,
-    title: "Sharing Joyful Holiday Card Messages to Employees for Work This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages to Employees for Work This Season",
-    slug: "holiday-card-messages-to-employees-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733040924217,
+    title: "Warming Happy December Wishes for the Holiday Season",
+    description: "Comprehensive guide about Warming Happy December Wishes for the Holiday Season",
+    slug: "happy-december-wishes-for-the-holiday-season",
+    category: "December-Messages"
   },
   {
-    id: 1732944258935,
-    title: "Spread Merry Cheer with the Best Holiday Card Funny Messages",
-    description: "Comprehensive guide about Spread Merry Cheer with the Best Holiday Card Funny Messages",
-    slug: "best-holiday-card-funny-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733040907526,
+    title: "Warming December New Year's Eve Messages for Family and Friends",
+    description: "Comprehensive guide about Warming December New Year's Eve Messages for Family and Friends",
+    slug: "december-new-year-s-eve-messages-for-family-and-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732944241056,
-    title: "Bright Holiday Card Message for Boss Ideas: Sharing Festive Cheer",
-    description: "Comprehensive guide about Bright Holiday Card Message for Boss Ideas: Sharing Festive Cheer",
-    slug: "holiday-card-message-for-boss-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733040888400,
+    title: "Sharing December message for sending festive cheer to coworkers, warming hearts this holiday season.",
+    description: "Comprehensive guide about Sharing December message for sending festive cheer to coworkers, warming hearts this holiday season.",
+    slug: "december-message-for-sending-festive-cheer-to-coworkers",
+    category: "December-Messages"
   },
   {
-    id: 1732944223287,
-    title: "Merry Creative Funny Business Holiday Card Messages for Clients!",
-    description: "Comprehensive guide about Merry Creative Funny Business Holiday Card Messages for Clients!",
-    slug: "creative-funny-business-holiday-card-messages-for-clients",
-    category: "Holiday-Card-Messages"
+    id: 1733040871564,
+    title: "Heartfelt December Blessings for the Holidays:  Glowing Warmth and Cheer",
+    description: "Comprehensive guide about Heartfelt December Blessings for the Holidays:  Glowing Warmth and Cheer",
+    slug: "heartfelt-december-blessings-for-the-holidays",
+    category: "December-Messages"
   },
   {
-    id: 1732944203924,
-    title: "Spread Joyful Cheer: Best Holiday Messages for Cards for Work",
-    description: "Comprehensive guide about Spread Joyful Cheer: Best Holiday Messages for Cards for Work",
-    slug: "best-holiday-messages-for-cards-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733040853507,
+    title: "Thoughtful December Messages Warming Winter Hearts",
+    description: "Comprehensive guide about Thoughtful December Messages Warming Winter Hearts",
+    slug: "thoughtful-december-messages-for-your-partner",
+    category: "December-Messages"
   },
   {
-    id: 1732944186697,
-    title: "Sharing Joyful Holiday Card Messages to Employees This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages to Employees This Season",
-    slug: "holiday-card-messages-to-employees-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733040836999,
+    title: "Merry December Wishes for Peace and Joy:  Glowing Warmth Through Winter's Embrace",
+    description: "Comprehensive guide about Merry December Wishes for Peace and Joy:  Glowing Warmth Through Winter's Embrace",
+    slug: "merry-december-wishes-for-peace-and-joy",
+    category: "December-Messages"
   },
   {
-    id: 1732944169584,
-    title: "Share Joyful Unique Holiday Card Messages This Season!",
-    description: "Comprehensive guide about Share Joyful Unique Holiday Card Messages This Season!",
-    slug: "unique-holiday-card-messages-funny",
-    category: "Holiday-Card-Messages"
+    id: 1733040819336,
+    title: "December Greetings for Hope and Positivity in Life:  Winter's Warm Embrace",
+    description: "Comprehensive guide about December Greetings for Hope and Positivity in Life:  Winter's Warm Embrace",
+    slug: "december-greetings-for-hope-and-positivity-in-life",
+    category: "December-Messages"
   },
   {
-    id: 1732944149834,
-    title: "Brightest Best Best Holiday Messages for Cards: Sharing Festive Cheer",
-    description: "Comprehensive guide about Brightest Best Best Holiday Messages for Cards: Sharing Festive Cheer",
-    slug: "best-best-holiday-messages-for-cards",
-    category: "Holiday-Card-Messages"
+    id: 1733040800660,
+    title: "Warming December Love Messages to Send to My Partner",
+    description: "Comprehensive guide about Warming December Love Messages to Send to My Partner",
+    slug: "december-love-messages-to-send-to-my-partner",
+    category: "December-Messages"
   },
   {
-    id: 1732944130978,
-    title: "Merry Holiday Card Messages for Boss for Family:  Bright Wishes & Cheer!",
-    description: "Comprehensive guide about Merry Holiday Card Messages for Boss for Family:  Bright Wishes & Cheer!",
-    slug: "holiday-card-messages-for-boss-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040785867,
+    title: "Warm December Wishes for a Calm Month Ahead, Glowing with Peace",
+    description: "Comprehensive guide about Warm December Wishes for a Calm Month Ahead, Glowing with Peace",
+    slug: "peaceful-december-wishes-for-a-calm-month-ahead",
+    category: "December-Messages"
   },
   {
-    id: 1732944111882,
-    title: "Brighten Your Season: Best Business Holiday Card Messages for Employees",
-    description: "Comprehensive guide about Brighten Your Season: Best Business Holiday Card Messages for Employees",
-    slug: "best-business-holiday-card-messages-for-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733040769170,
+    title: "December Messages to Encourage New Year's Resolutions:  Glowing with Festive Hope",
+    description: "Comprehensive guide about December Messages to Encourage New Year's Resolutions:  Glowing with Festive Hope",
+    slug: "december-messages-to-encourage-new-year-s-resolutions",
+    category: "December-Messages"
   },
   {
-    id: 1732944093105,
-    title: "Joyful Unique Holiday Card Messages for Staff This Season",
-    description: "Comprehensive guide about Joyful Unique Holiday Card Messages for Staff This Season",
-    slug: "unique-holiday-card-messages-for-staff",
-    category: "Holiday-Card-Messages"
+    id: 1733040752171,
+    title: "Fun December Wishes for my Family and Friends: Sparkling Winter's Joy",
+    description: "Comprehensive guide about Fun December Wishes for my Family and Friends: Sparkling Winter's Joy",
+    slug: "fun-december-wishes-for-my-family-and-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732944073028,
-    title: "Brighten Holidays With Best Holidays Messages Greeting Cards",
-    description: "Comprehensive guide about Brighten Holidays With Best Holidays Messages Greeting Cards",
-    slug: "best-holidays-messages-greeting-cards",
-    category: "Holiday-Card-Messages"
+    id: 1733040736627,
+    title: "December Messages to Stay Hopeful and Strong:  Glowing With Winter's Cheer",
+    description: "Comprehensive guide about December Messages to Stay Hopeful and Strong:  Glowing With Winter's Cheer",
+    slug: "december-messages-to-stay-hopeful-and-strong",
+    category: "December-Messages"
   },
   {
-    id: 1732944053683,
-    title: "Bright Business Holiday Card Messages for Employees Ideas, Spreading Festive Cheer!",
-    description: "Comprehensive guide about Bright Business Holiday Card Messages for Employees Ideas, Spreading Festive Cheer!",
-    slug: "business-holiday-card-messages-for-employees-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733040718419,
+    title: "Cozy December Messages for a Peaceful Month:  Glowing With Festive Cheer",
+    description: "Comprehensive guide about Cozy December Messages for a Peaceful Month:  Glowing With Festive Cheer",
+    slug: "cozy-december-messages-for-a-peaceful-month",
+    category: "December-Messages"
   },
   {
-    id: 1732944034452,
-    title: "Brightest Best Holiday Greeting Card Messages for Family, Filled With Love",
-    description: "Comprehensive guide about Brightest Best Holiday Greeting Card Messages for Family, Filled With Love",
-    slug: "best-holiday-greeting-card-messages-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040698597,
+    title: "Festive December Messages: Warming Hearts Through Winter's Glow",
+    description: "Comprehensive guide about Festive December Messages: Warming Hearts Through Winter's Glow",
+    slug: "festive-december-messages-for-the-holiday-spirit",
+    category: "December-Messages"
   },
   {
-    id: 1732944015888,
-    title: "Sharing Joyful Holiday Card Messages for Customers for Family This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages for Customers for Family This Season",
-    slug: "holiday-card-messages-for-customers-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040678928,
+    title: "December Wishes to Embrace New Opportunities: Glowing with Festive Hope",
+    description: "Comprehensive guide about December Wishes to Embrace New Opportunities: Glowing with Festive Hope",
+    slug: "december-wishes-to-embrace-new-opportunities",
+    category: "December-Messages"
   },
   {
-    id: 1732943997499,
-    title: "Best Holiday Card Message to Teacher: Spreading Festive Cheer",
-    description: "Comprehensive guide about Best Holiday Card Message to Teacher: Spreading Festive Cheer",
-    slug: "best-holiday-card-message-to-teacher",
-    category: "Holiday-Card-Messages"
+    id: 1733040660957,
+    title: "December Message for Reflecting on the Past Year: Glowing With Festive Cheer",
+    description: "Comprehensive guide about December Message for Reflecting on the Past Year: Glowing With Festive Cheer",
+    slug: "december-message-for-reflecting-on-the-past-year",
+    category: "December-Messages"
   },
   {
-    id: 1732943979674,
-    title: "Sharing Joyful Holiday Card Messages for Staff for Family This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages for Staff for Family This Season",
-    slug: "holiday-card-messages-for-staff-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040642524,
+    title: "Warming Motivational December Greetings to My Team Through Festive Cheer",
+    description: "Comprehensive guide about Warming Motivational December Greetings to My Team Through Festive Cheer",
+    slug: "motivational-december-greetings-to-my-team",
+    category: "December-Messages"
   },
   {
-    id: 1732943961623,
-    title: "Joyful Holiday Messages for Cards to Employees for Friends This Season",
-    description: "Comprehensive guide about Joyful Holiday Messages for Cards to Employees for Friends This Season",
-    slug: "holiday-messages-for-cards-to-employees-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733040624147,
+    title: "December Wishes for a Magical Holiday Season: Glowing with Festive Cheer",
+    description: "Comprehensive guide about December Wishes for a Magical Holiday Season: Glowing with Festive Cheer",
+    slug: "december-wishes-for-a-magical-holiday-season",
+    category: "December-Messages"
   },
   {
-    id: 1732943942883,
-    title: "Joyful Holidays Messages Greeting Cards for Family, Spreading Cheer",
-    description: "Comprehensive guide about Joyful Holidays Messages Greeting Cards for Family, Spreading Cheer",
-    slug: "holidays-messages-greeting-cards-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040605011,
+    title: "Warm December Prayer Message for a Good Year:  Glowing Hope's Embrace",
+    description: "Comprehensive guide about Warm December Prayer Message for a Good Year:  Glowing Hope's Embrace",
+    slug: "warm-december-prayer-message-for-a-good-year",
+    category: "December-Messages"
   },
   {
-    id: 1732943924050,
-    title: "Sharing Joyful Holiday Card Messages Corporate for Family This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages Corporate for Family This Season",
-    slug: "holiday-card-messages-corporate-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040587234,
+    title: "Sharing December holiday messages to send via text, warming hearts this season",
+    description: "Comprehensive guide about Sharing December holiday messages to send via text, warming hearts this season",
+    slug: "december-holiday-messages-to-send-via-text",
+    category: "December-Messages"
   },
   {
-    id: 1732943904310,
-    title: "Sharing Joyful Unique Holiday Card Messages This Season",
-    description: "Comprehensive guide about Sharing Joyful Unique Holiday Card Messages This Season",
-    slug: "unique-holiday-card-message-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733040570690,
+    title: "Meaningful December Wishes for My Closest Friends:  Glowing Warmth and Holiday Cheer",
+    description: "Comprehensive guide about Meaningful December Wishes for My Closest Friends:  Glowing Warmth and Holiday Cheer",
+    slug: "meaningful-december-wishes-for-my-closest-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732943885934,
-    title: "Unique Holiday Messages for Cards to Employees:  Brighten Their Season With Cheer",
-    description: "Comprehensive guide about Unique Holiday Messages for Cards to Employees:  Brighten Their Season With Cheer",
-    slug: "unique-holiday-messages-for-cards-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733040555010,
+    title: "December Messages Warming Hearts Through Winter's Glow",
+    description: "Comprehensive guide about December Messages Warming Hearts Through Winter's Glow",
+    slug: "december-messages-for-those-you-care-about",
+    category: "December-Messages"
   },
   {
-    id: 1732943866720,
-    title: "Sharing Joyful Business Holiday Card Messages to Clients 2024",
-    description: "Comprehensive guide about Sharing Joyful Business Holiday Card Messages to Clients 2024",
-    slug: "business-holiday-card-messages-to-clients-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733040537728,
+    title: "Celebrating a Positive December Message for All Those Who Inspire Me",
+    description: "Comprehensive guide about Celebrating a Positive December Message for All Those Who Inspire Me",
+    slug: "positive-december-message-for-all-those-who-inspire-me",
+    category: "December-Messages"
   },
   {
-    id: 1732943848363,
-    title: "Sending Best Business Holiday Card Messages Filled With Cheer",
-    description: "Comprehensive guide about Sending Best Business Holiday Card Messages Filled With Cheer",
-    slug: "best-business-holiday-card-messages-to-clients",
-    category: "Holiday-Card-Messages"
+    id: 1733040518989,
+    title: "Joyful December Wishes to My Coworkers:  Glowing Warmth & Festive Cheer",
+    description: "Comprehensive guide about Joyful December Wishes to My Coworkers:  Glowing Warmth & Festive Cheer",
+    slug: "joyful-december-wishes-to-my-coworkers",
+    category: "December-Messages"
   },
   {
-    id: 1732943828877,
-    title: "Merry Message on Some Holiday Cards Crossword Clue 2024: Sharing Festive Cheer",
-    description: "Comprehensive guide about Merry Message on Some Holiday Cards Crossword Clue 2024: Sharing Festive Cheer",
-    slug: "message-on-some-holiday-cards-crossword-clue-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733040502353,
+    title: "Warmest Happy December Message for My Wife or Husband, Glowing with Love",
+    description: "Comprehensive guide about Warmest Happy December Message for My Wife or Husband, Glowing with Love",
+    slug: "happy-december-message-for-my-wife-or-husband",
+    category: "December-Messages"
   },
   {
-    id: 1732943811558,
-    title: "Sending Joyful Holiday Card Messages for Customers & Friends This Season",
-    description: "Comprehensive guide about Sending Joyful Holiday Card Messages for Customers & Friends This Season",
-    slug: "holiday-card-messages-for-customers-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733040485752,
+    title: "Sharing December messages to spread kindness and joy through winter's glow",
+    description: "Comprehensive guide about Sharing December messages to spread kindness and joy through winter's glow",
+    slug: "december-message-to-spread-kindness-and-joy",
+    category: "December-Messages"
   },
   {
-    id: 1732943794550,
-    title: "Merry Happy Holidays Message Card 2024: Joyful Wishes!",
-    description: "Comprehensive guide about Merry Happy Holidays Message Card 2024: Joyful Wishes!",
-    slug: "happy-holidays-message-card-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733040467677,
+    title: "Inspiring December Greetings for the Upcoming New Year: Warming Hearts with Festive Cheer",
+    description: "Comprehensive guide about Inspiring December Greetings for the Upcoming New Year: Warming Hearts with Festive Cheer",
+    slug: "inspiring-december-greetings-for-the-upcoming-new-year",
+    category: "December-Messages"
   },
   {
-    id: 1732943775561,
-    title: "Bright Holiday Cheer: Creative Holiday Card Message for Boss",
-    description: "Comprehensive guide about Bright Holiday Cheer: Creative Holiday Card Message for Boss",
-    slug: "creative-holiday-card-message-for-boss",
-    category: "Holiday-Card-Messages"
+    id: 1733040448967,
+    title: "A Heartfelt December Message for All My Loved Ones:  Glowing Winter Wishes",
+    description: "Comprehensive guide about A Heartfelt December Message for All My Loved Ones:  Glowing Winter Wishes",
+    slug: "heartfelt-december-message-for-all-my-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732943755897,
-    title: "Spread Merry Cheer With Best Holiday Card Messages Funny",
-    description: "Comprehensive guide about Spread Merry Cheer With Best Holiday Card Messages Funny",
-    slug: "best-holiday-card-messages-funny",
-    category: "Holiday-Card-Messages"
+    id: 1733040428304,
+    title: "Sharing December card messages for sending festive cheer through winter's glow",
+    description: "Comprehensive guide about Sharing December card messages for sending festive cheer through winter's glow",
+    slug: "december-card-message-for-sending-festive-cheer",
+    category: "December-Messages"
   },
   {
-    id: 1732943738127,
-    title: "Joyful Holiday Card Messages for Teachers for Friends This Season",
-    description: "Comprehensive guide about Joyful Holiday Card Messages for Teachers for Friends This Season",
-    slug: "holiday-card-messages-for-teachers-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733040410527,
+    title: "December Messages for Sending Love During the Holidays:  Glowing Winter Wishes",
+    description: "Comprehensive guide about December Messages for Sending Love During the Holidays:  Glowing Winter Wishes",
+    slug: "december-messages-for-sending-love-during-the-holidays",
+    category: "December-Messages"
   },
   {
-    id: 1732943720368,
-    title: "Bright Holiday Messages for Cards for Family: Spreading Cheer",
-    description: "Comprehensive guide about Bright Holiday Messages for Cards for Family: Spreading Cheer",
-    slug: "best-holiday-messages-for-cards-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040392971,
+    title: "December text message for my spouse: Warming Winter's Heart with Festive Cheer",
+    description: "Comprehensive guide about December text message for my spouse: Warming Winter's Heart with Festive Cheer",
+    slug: "december-text-message-for-my-spouse",
+    category: "December-Messages"
   },
   {
-    id: 1732943700402,
-    title: "Merry Best Boss Holiday Card Message:  Joyful Wishes This Season!",
-    description: "Comprehensive guide about Merry Best Boss Holiday Card Message:  Joyful Wishes This Season!",
-    slug: "best-boss-holiday-card-message",
-    category: "Holiday-Card-Messages"
+    id: 1733040374162,
+    title: "December Gratitude Message for Friends and Family:  Glowing Warmth Through Winter's Joy",
+    description: "Comprehensive guide about December Gratitude Message for Friends and Family:  Glowing Warmth Through Winter's Joy",
+    slug: "december-gratitude-message-for-friends-and-family",
+    category: "December-Messages"
   },
   {
-    id: 1732943681451,
-    title: "Share Joyful Cheer: Best Funny Business Holiday Card Messages for Clients",
-    description: "Comprehensive guide about Share Joyful Cheer: Best Funny Business Holiday Card Messages for Clients",
-    slug: "best-funny-business-holiday-card-messages-for-clients",
-    category: "Holiday-Card-Messages"
+    id: 1733040357812,
+    title: "December birthday greetings and wishes for loved ones glowing with winter's warmth",
+    description: "Comprehensive guide about December birthday greetings and wishes for loved ones glowing with winter's warmth",
+    slug: "december-birthday-greetings-and-wishes-for-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732943662103,
-    title: "Merry Holiday Card Messages for Boss 2024: Season's Joy!",
-    description: "Comprehensive guide about Merry Holiday Card Messages for Boss 2024: Season's Joy!",
-    slug: "holiday-card-messages-for-boss-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733040340477,
+    title: "Sharing Cheerful December Messages Through Winter's Glow",
+    description: "Comprehensive guide about Sharing Cheerful December Messages Through Winter's Glow",
+    slug: "cheerful-december-message-for-everyone-i-know",
+    category: "December-Messages"
   },
   {
-    id: 1732943643255,
-    title: "Merry Business Holiday Card Messages for Employees 2024:  Joyful Wishes!",
-    description: "Comprehensive guide about Merry Business Holiday Card Messages for Employees 2024:  Joyful Wishes!",
-    slug: "business-holiday-card-messages-for-employees-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733040325532,
+    title: "Warm December Wishes for Health and Happiness, Glowing Brightly",
+    description: "Comprehensive guide about Warm December Wishes for Health and Happiness, Glowing Brightly",
+    slug: "warm-december-wishes-for-health-and-happiness",
+    category: "December-Messages"
   },
   {
-    id: 1732943624249,
-    title: "Merry Holiday Card Funny Messages for Family:  Joyful Cheers!",
-    description: "Comprehensive guide about Merry Holiday Card Funny Messages for Family:  Joyful Cheers!",
-    slug: "holiday-card-funny-messages-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040307960,
+    title: "December Blessing Messages: Warming Hearts This Holiday",
+    description: "Comprehensive guide about December Blessing Messages: Warming Hearts This Holiday",
+    slug: "december-blessing-messages-to-send-to-family",
+    category: "December-Messages"
   },
   {
-    id: 1732943605708,
-    title: "Share Joyful Unique Business Holiday Thank You Card Messages",
-    description: "Comprehensive guide about Share Joyful Unique Business Holiday Thank You Card Messages",
-    slug: "unique-business-holiday-thank-you-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733040291516,
+    title: "Festive December Messages: Sharing Winter's Warmth",
+    description: "Comprehensive guide about Festive December Messages: Sharing Winter's Warmth",
+    slug: "festive-december-messages-for-coworkers-and-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732943587350,
-    title: "Merry Holiday Card Messages for Staff 2024: Spreading Cheer!",
-    description: "Comprehensive guide about Merry Holiday Card Messages for Staff 2024: Spreading Cheer!",
-    slug: "holiday-card-messages-for-staff-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733040274543,
+    title: "Warm Winter's Glow: Positive December Wishes for a Bright Future",
+    description: "Comprehensive guide about Warm Winter's Glow: Positive December Wishes for a Bright Future",
+    slug: "positive-december-wishes-for-a-bright-future",
+    category: "December-Messages"
   },
   {
-    id: 1732943568703,
-    title: "Share Merry Best Holiday Messages for Cards for Friends",
-    description: "Comprehensive guide about Share Merry Best Holiday Messages for Cards for Friends",
-    slug: "best-holiday-messages-for-cards-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733040257580,
+    title: "December Messages to Share Love's Warming Glow",
+    description: "Comprehensive guide about December Messages to Share Love's Warming Glow",
+    slug: "december-messages-to-share-love-and-warmth",
+    category: "December-Messages"
   },
   {
-    id: 1732943549776,
-    title: "Sharing Joyful Holiday Card Messages for Boss & Friends This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages for Boss & Friends This Season",
-    slug: "holiday-card-messages-for-boss-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733040240509,
+    title: "December Well Wishes for a New Beginning: Glowing with Holiday Cheer",
+    description: "Comprehensive guide about December Well Wishes for a New Beginning: Glowing with Holiday Cheer",
+    slug: "december-well-wishes-for-a-new-beginning",
+    category: "December-Messages"
   },
   {
-    id: 1732943532056,
-    title: "Spread Joyful Cheer: Best Holiday Card Messages for Customers",
-    description: "Comprehensive guide about Spread Joyful Cheer: Best Holiday Card Messages for Customers",
-    slug: "best-holiday-card-messages-for-customers",
-    category: "Holiday-Card-Messages"
+    id: 1733040221475,
+    title: "Sweet December Greetings for My Girlfriend:  Glowing with Holiday Cheer",
+    description: "Comprehensive guide about Sweet December Greetings for My Girlfriend:  Glowing with Holiday Cheer",
+    slug: "sweet-december-greetings-for-my-girlfriend",
+    category: "December-Messages"
   },
   {
-    id: 1732943514052,
-    title: "Merry, Bright Funny Funny Business Holiday Card Messages for Clients!",
-    description: "Comprehensive guide about Merry, Bright Funny Funny Business Holiday Card Messages for Clients!",
-    slug: "funny-funny-business-holiday-card-messages-for-clients",
-    category: "Holiday-Card-Messages"
+    id: 1733040202641,
+    title: "Glowing Special December Message for My Partner: A Winter's Embrace",
+    description: "Comprehensive guide about Glowing Special December Message for My Partner: A Winter's Embrace",
+    slug: "special-december-message-for-my-partner",
+    category: "December-Messages"
   },
   {
-    id: 1732943493830,
-    title: "Bright Holiday Card Messages for Teachers Ideas: Spreading Festive Cheer",
-    description: "Comprehensive guide about Bright Holiday Card Messages for Teachers Ideas: Spreading Festive Cheer",
-    slug: "holiday-card-messages-for-teachers-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733040185434,
+    title: "Heartfelt December Holiday Greetings for My Team:  A Season of Sparkling Cheer",
+    description: "Comprehensive guide about Heartfelt December Holiday Greetings for My Team:  A Season of Sparkling Cheer",
+    slug: "heartfelt-december-holiday-greetings-for-my-team",
+    category: "December-Messages"
   },
   {
-    id: 1732943475539,
-    title: "Sharing Joyful Unique Holiday Card Messages for Boss This Season",
-    description: "Comprehensive guide about Sharing Joyful Unique Holiday Card Messages for Boss This Season",
-    slug: "unique-holiday-card-message-for-boss",
-    category: "Holiday-Card-Messages"
+    id: 1733040169062,
+    title: "Joyful December Wishes to my friends and family, glowing with holiday cheer!",
+    description: "Comprehensive guide about Joyful December Wishes to my friends and family, glowing with holiday cheer!",
+    slug: "joyful-december-wishes-to-my-friends-and-family",
+    category: "December-Messages"
   },
   {
-    id: 1732943457096,
-    title: "Joyful Work Holiday Card Messages for Family, Spreading Festive Cheer",
-    description: "Comprehensive guide about Joyful Work Holiday Card Messages for Family, Spreading Festive Cheer",
-    slug: "work-holiday-card-messages-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040153007,
+    title: "December Messages for a Cozy Holiday Season: Warming Hearts with Festive Cheer",
+    description: "Comprehensive guide about December Messages for a Cozy Holiday Season: Warming Hearts with Festive Cheer",
+    slug: "december-messages-for-a-cozy-holiday-season",
+    category: "December-Messages"
   },
   {
-    id: 1732943439487,
-    title: "Merry Holiday Card Messages Funny for Family:  Joyful Laughter This Season!",
-    description: "Comprehensive guide about Merry Holiday Card Messages Funny for Family:  Joyful Laughter This Season!",
-    slug: "holiday-card-messages-funny-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040135624,
+    title: "Warm December Greetings to Start the Month Right:  A Season of Sparkling Joy",
+    description: "Comprehensive guide about Warm December Greetings to Start the Month Right:  A Season of Sparkling Joy",
+    slug: "warm-december-greetings-to-start-the-month-right",
+    category: "December-Messages"
   },
   {
-    id: 1732943421568,
-    title: "Merry Messages on Some Holiday Cards Crossword Clue Ideas",
-    description: "Comprehensive guide about Merry Messages on Some Holiday Cards Crossword Clue Ideas",
-    slug: "message-on-some-holiday-cards-crossword-clue-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733040118681,
+    title: "December Wishes for Peace and Happiness:  Glowing Warmth Through Winter's Grace",
+    description: "Comprehensive guide about December Wishes for Peace and Happiness:  Glowing Warmth Through Winter's Grace",
+    slug: "december-wishes-for-peace-and-happiness",
+    category: "December-Messages"
   },
   {
-    id: 1732943403750,
-    title: "Brighten Your Season: Best Holiday Greeting Card Messages for Work",
-    description: "Comprehensive guide about Brighten Your Season: Best Holiday Greeting Card Messages for Work",
-    slug: "best-holiday-greeting-card-messages-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733040100652,
+    title: "December Greetings for Sharing Peace and Joy:  Warm Winter Wishes",
+    description: "Comprehensive guide about December Greetings for Sharing Peace and Joy:  Warm Winter Wishes",
+    slug: "december-greetings-for-sharing-peace-and-joy",
+    category: "December-Messages"
   },
   {
-    id: 1732943383698,
-    title: "Merry Funny Holiday Messages for Cards to Employees!",
-    description: "Comprehensive guide about Merry Funny Holiday Messages for Cards to Employees!",
-    slug: "funny-holiday-messages-for-cards-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733040083464,
+    title: "Inspiring December Wishes for All the Good Things:  Glowing with Holiday Cheer",
+    description: "Comprehensive guide about Inspiring December Wishes for All the Good Things:  Glowing with Holiday Cheer",
+    slug: "inspiring-december-wishes-for-all-the-good-things",
+    category: "December-Messages"
   },
   {
-    id: 1732943365088,
-    title: "Brightest Holiday Messages for Cards to Employees, Spreading Festive Cheer!",
-    description: "Comprehensive guide about Brightest Holiday Messages for Cards to Employees, Spreading Festive Cheer!",
-    slug: "best-holiday-messages-for-cards-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733040066594,
+    title: "December Farewell Greetings for a Fresh Start: Glowing With Winter's Promise",
+    description: "Comprehensive guide about December Farewell Greetings for a Fresh Start: Glowing With Winter's Promise",
+    slug: "december-farewell-greetings-for-a-fresh-start",
+    category: "December-Messages"
   },
   {
-    id: 1732943345942,
-    title: "Sharing Joyful Holiday Card Corporate Messages for Family This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Corporate Messages for Family This Season",
-    slug: "holiday-card-corporate-messages-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733040049081,
+    title: "Warming Hearts with a Special December Message for Those You Love",
+    description: "Comprehensive guide about Warming Hearts with a Special December Message for Those You Love",
+    slug: "special-december-message-for-those-you-love",
+    category: "December-Messages"
   },
   {
-    id: 1732943328372,
-    title: "Sharing Joyful Happy Holidays Message Card for Work This Season",
-    description: "Comprehensive guide about Sharing Joyful Happy Holidays Message Card for Work This Season",
-    slug: "happy-holidays-message-card-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733040032304,
+    title: "Festive December Message for Friends & Family: Glowing Warmth & Cheer",
+    description: "Comprehensive guide about Festive December Message for Friends & Family: Glowing Warmth & Cheer",
+    slug: "festive-december-message-for-friends-and-family",
+    category: "December-Messages"
   },
   {
-    id: 1732943309644,
-    title: "Share Joyful Cheer This Season: Unique Happy Holidays Message Card",
-    description: "Comprehensive guide about Share Joyful Cheer This Season: Unique Happy Holidays Message Card",
-    slug: "unique-happy-holidays-message-card",
-    category: "Holiday-Card-Messages"
+    id: 1733040016585,
+    title: "December Wishes for Hope and Happiness: Glowing with Winter's Warmth",
+    description: "Comprehensive guide about December Wishes for Hope and Happiness: Glowing with Winter's Warmth",
+    slug: "december-wishes-for-hope-and-happiness",
+    category: "December-Messages"
   },
   {
-    id: 1732943288854,
-    title: "Creative Holiday Card Messages:  Merry Wishes & Joyful Cheer",
-    description: "Comprehensive guide about Creative Holiday Card Messages:  Merry Wishes & Joyful Cheer",
-    slug: "creative-holiday-card-messages-corporate",
-    category: "Holiday-Card-Messages"
+    id: 1733040000830,
+    title: "Heartfelt December Wishes for a Happy New Year: Glowing with Festive Cheer",
+    description: "Comprehensive guide about Heartfelt December Wishes for a Happy New Year: Glowing with Festive Cheer",
+    slug: "heartfelt-december-wishes-for-a-happy-new-year",
+    category: "December-Messages"
   },
   {
-    id: 1732943270980,
-    title: "Joyful Employee Holiday Card Messages for Friends This Season",
-    description: "Comprehensive guide about Joyful Employee Holiday Card Messages for Friends This Season",
-    slug: "employee-holiday-card-messages-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733039984116,
+    title: "December Message for Those Near and Far:  Glowing Warmth Through Winter's Embrace",
+    description: "Comprehensive guide about December Message for Those Near and Far:  Glowing Warmth Through Winter's Embrace",
+    slug: "december-message-for-those-near-and-far",
+    category: "December-Messages"
   },
   {
-    id: 1732943252717,
-    title: "Spread Merry Cheer: Work Holiday Card Messages for Work",
-    description: "Comprehensive guide about Spread Merry Cheer: Work Holiday Card Messages for Work",
-    slug: "work-holiday-card-messages-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733039968569,
+    title: "Sharing December joy messages to spread to everyone, glowing with warmth",
+    description: "Comprehensive guide about Sharing December joy messages to spread to everyone, glowing with warmth",
+    slug: "december-joy-message-to-spread-to-everyone",
+    category: "December-Messages"
   },
   {
-    id: 1732943233389,
-    title: "Sharing Joyful Best Holiday Card Messages Corporate This Season",
-    description: "Comprehensive guide about Sharing Joyful Best Holiday Card Messages Corporate This Season",
-    slug: "best-holiday-card-messages-corporate",
-    category: "Holiday-Card-Messages"
+    id: 1733039951540,
+    title: "Sharing Holiday Season December Messages With Festive Cheer",
+    description: "Comprehensive guide about Sharing Holiday Season December Messages With Festive Cheer",
+    slug: "holiday-season-december-messages-for-coworkers",
+    category: "December-Messages"
   },
   {
-    id: 1732943215164,
-    title: "Merry Funny Business Holiday Card Messages for Clients for Work!",
-    description: "Comprehensive guide about Merry Funny Business Holiday Card Messages for Clients for Work!",
-    slug: "funny-business-holiday-card-messages-for-clients-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733039933310,
+    title: "December Card Message for Sending Love's Warm Glow",
+    description: "Comprehensive guide about December Card Message for Sending Love's Warm Glow",
+    slug: "december-card-message-for-sending-love",
+    category: "December-Messages"
   },
   {
-    id: 1732943196696,
-    title: "Brighten Your Holidays With Unique Best Holiday Greeting Card Messages",
-    description: "Comprehensive guide about Brighten Your Holidays With Unique Best Holiday Greeting Card Messages",
-    slug: "unique-best-holiday-greeting-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039916812,
+    title: "Warmth-Glowing Thoughtful December Message to Your Significant Other",
+    description: "Comprehensive guide about Warmth-Glowing Thoughtful December Message to Your Significant Other",
+    slug: "thoughtful-december-message-to-your-significant-other",
+    category: "December-Messages"
   },
   {
-    id: 1732943178567,
-    title: "Sharing Unique Business Holiday Card Messages: Bright Cheer for You!",
-    description: "Comprehensive guide about Sharing Unique Business Holiday Card Messages: Bright Cheer for You!",
-    slug: "unique-business-holiday-card-messages-for-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733039899829,
+    title: "Warmest Positive December Message to My Friends and Family, Glowing with Holiday Cheer",
+    description: "Comprehensive guide about Warmest Positive December Message to My Friends and Family, Glowing with Holiday Cheer",
+    slug: "positive-december-message-to-my-friends-and-family",
+    category: "December-Messages"
   },
   {
-    id: 1732943158911,
-    title: "Spread Joyful Cheer with Creative Best Holiday Card Messages",
-    description: "Comprehensive guide about Spread Joyful Cheer with Creative Best Holiday Card Messages",
-    slug: "creative-best-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039883488,
+    title: "Merry December Greetings for All:  Glowing Warmth and Festive Cheer",
+    description: "Comprehensive guide about Merry December Greetings for All:  Glowing Warmth and Festive Cheer",
+    slug: "merry-december-greetings-for-all",
+    category: "December-Messages"
   },
   {
-    id: 1732943141083,
-    title: "Merry Funny Holiday Card Messages for Boss: Spreading Cheer!",
-    description: "Comprehensive guide about Merry Funny Holiday Card Messages for Boss: Spreading Cheer!",
-    slug: "funny-holiday-card-messages-for-boss",
-    category: "Holiday-Card-Messages"
+    id: 1733039866432,
+    title: "December Wish for Peace and Joy in the Season:  Glowing Hearts, Warming Smiles",
+    description: "Comprehensive guide about December Wish for Peace and Joy in the Season:  Glowing Hearts, Warming Smiles",
+    slug: "december-wish-for-peace-and-joy-in-the-season",
+    category: "December-Messages"
   },
   {
-    id: 1732943120399,
-    title: "Sharing Joyful Best Message on Some Holiday Cards Crossword This Season",
-    description: "Comprehensive guide about Sharing Joyful Best Message on Some Holiday Cards Crossword This Season",
-    slug: "best-message-on-some-holiday-cards-crossword",
-    category: "Holiday-Card-Messages"
+    id: 1733039849550,
+    title: "Warming December Quotes and Greetings for Loved Ones",
+    description: "Comprehensive guide about Warming December Quotes and Greetings for Loved Ones",
+    slug: "december-quotes-and-greetings-for-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732943101896,
-    title: "Joyful Holiday Card Messages for Teachers for Family This Season",
-    description: "Comprehensive guide about Joyful Holiday Card Messages for Teachers for Family This Season",
-    slug: "holiday-card-messages-for-teachers-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733039832651,
+    title: "December message to spread holiday cheer: Warming Hearts with Festive Light",
+    description: "Comprehensive guide about December message to spread holiday cheer: Warming Hearts with Festive Light",
+    slug: "december-message-to-spread-holiday-cheer",
+    category: "December-Messages"
   },
   {
-    id: 1732943083750,
-    title: "Merry Holiday Card Messages for Boss for Work: Bright Wishes!",
-    description: "Comprehensive guide about Merry Holiday Card Messages for Boss for Work: Bright Wishes!",
-    slug: "holiday-card-messages-for-boss-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733039814356,
+    title: "December Wishes for Family Gatherings: Warming Hearts Through Festive Cheer",
+    description: "Comprehensive guide about December Wishes for Family Gatherings: Warming Hearts Through Festive Cheer",
+    slug: "december-wishes-for-family-gatherings",
+    category: "December-Messages"
   },
   {
-    id: 1732943062534,
-    title: "Bright Holiday Card Messages for Boss Ideas:  Season's Joy!",
-    description: "Comprehensive guide about Bright Holiday Card Messages for Boss Ideas:  Season's Joy!",
-    slug: "holiday-card-messages-for-boss-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733039797571,
+    title: "Sharing Meaningful December Messages Through Winter's Glow",
+    description: "Comprehensive guide about Sharing Meaningful December Messages Through Winter's Glow",
+    slug: "meaningful-december-messages-for-your-team",
+    category: "December-Messages"
   },
   {
-    id: 1732943042931,
-    title: "Merry Message on Some Holiday Cards Crossword Clue for Work!",
-    description: "Comprehensive guide about Merry Message on Some Holiday Cards Crossword Clue for Work!",
-    slug: "message-on-some-holiday-cards-crossword-clue-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733039779680,
+    title: "December Holiday Greetings to Send to Coworkers:  Sharing Winter's Warmth and Cheer",
+    description: "Comprehensive guide about December Holiday Greetings to Send to Coworkers:  Sharing Winter's Warmth and Cheer",
+    slug: "december-holiday-greetings-to-send-to-coworkers",
+    category: "December-Messages"
   },
   {
-    id: 1732943025149,
-    title: "Merry Message on Some Holiday Cards Crossword for Family",
-    description: "Comprehensive guide about Merry Message on Some Holiday Cards Crossword for Family",
-    slug: "message-on-some-holiday-cards-crossword-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733039762901,
+    title: "Warm and Cheerful December Message to My Boss:  Glowing Holiday Greetings!",
+    description: "Comprehensive guide about Warm and Cheerful December Message to My Boss:  Glowing Holiday Greetings!",
+    slug: "warm-and-cheerful-december-message-to-my-boss",
+    category: "December-Messages"
   },
   {
-    id: 1732943007048,
-    title: "Share Joyful Holiday Card Funny Messages for Work This Season",
-    description: "Comprehensive guide about Share Joyful Holiday Card Funny Messages for Work This Season",
-    slug: "holiday-card-funny-messages-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733039745448,
+    title: "Loving December Messages Warming Winter's Heart",
+    description: "Comprehensive guide about Loving December Messages Warming Winter's Heart",
+    slug: "loving-december-messages-to-my-partner",
+    category: "December-Messages"
   },
   {
-    id: 1732942989816,
-    title: "Merry Funny Holiday Card Messages to Employees: Spreading Cheer This Season",
-    description: "Comprehensive guide about Merry Funny Holiday Card Messages to Employees: Spreading Cheer This Season",
-    slug: "funny-holiday-card-messages-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733039726385,
+    title: "Heartfelt December Wishes for the Holidays: Warming Winter's Heart",
+    description: "Comprehensive guide about Heartfelt December Wishes for the Holidays: Warming Winter's Heart",
+    slug: "heartfelt-december-wishes-for-the-holidays",
+    category: "December-Messages"
   },
   {
-    id: 1732942971171,
-    title: "Merry Funny Business Holiday Card Messages: Spreading Cheer!",
-    description: "Comprehensive guide about Merry Funny Business Holiday Card Messages: Spreading Cheer!",
-    slug: "funny-business-holiday-card-messages-to-clients",
-    category: "Holiday-Card-Messages"
+    id: 1733039709807,
+    title: "Warming Hearts With the Best December Message to Send to Someone Special",
+    description: "Comprehensive guide about Warming Hearts With the Best December Message to Send to Someone Special",
+    slug: "best-december-message-to-send-to-someone-special",
+    category: "December-Messages"
   },
   {
-    id: 1732942952123,
-    title: "Merry Creative Message on Some Holiday Cards Crossword: Spreading Festive Cheer",
-    description: "Comprehensive guide about Merry Creative Message on Some Holiday Cards Crossword: Spreading Festive Cheer",
-    slug: "creative-message-on-some-holiday-cards-crossword",
-    category: "Holiday-Card-Messages"
+    id: 1733039693803,
+    title: "December Greeting to My Wife or Husband:  Winter's Warm Embrace",
+    description: "Comprehensive guide about December Greeting to My Wife or Husband:  Winter's Warm Embrace",
+    slug: "december-greeting-to-my-wife-or-husband",
+    category: "December-Messages"
   },
   {
-    id: 1732942934913,
-    title: "Sharing Joyful Holiday Card Messages to Our Wonderful Teacher This Season",
-    description: "Comprehensive guide about Sharing Joyful Holiday Card Messages to Our Wonderful Teacher This Season",
-    slug: "holiday-card-message-to-teacher-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733039676395,
+    title: "Funny December Message for Friends: Sparkling Winter Laughs",
+    description: "Comprehensive guide about Funny December Message for Friends: Sparkling Winter Laughs",
+    slug: "funny-december-message-for-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732942914582,
-    title: "Merry Messages on Some Holiday Cards Crossword for Friends!",
-    description: "Comprehensive guide about Merry Messages on Some Holiday Cards Crossword for Friends!",
-    slug: "message-on-some-holiday-cards-crossword-for-friends",
-    category: "Holiday-Card-Messages"
+    id: 1733039660475,
+    title: "December Love Messages Warming Our Winter Hearts",
+    description: "Comprehensive guide about December Love Messages Warming Our Winter Hearts",
+    slug: "december-love-messages-for-my-spouse",
+    category: "December-Messages"
   },
   {
-    id: 1732942896183,
-    title: "Brighten Your Holidays: Best Holiday Card Messages for Family",
-    description: "Comprehensive guide about Brighten Your Holidays: Best Holiday Card Messages for Family",
-    slug: "best-holiday-card-messages-for-family",
-    category: "Holiday-Card-Messages"
+    id: 1733039644542,
+    title: "December Wishes to Start the New Year Right:  Glowing with Festive Cheer",
+    description: "Comprehensive guide about December Wishes to Start the New Year Right:  Glowing with Festive Cheer",
+    slug: "december-wishes-to-start-the-new-year-right",
+    category: "December-Messages"
   },
   {
-    id: 1732942876755,
-    title: "Brightest Best Happy Holidays Message Card: Spreading Festive Cheer!",
-    description: "Comprehensive guide about Brightest Best Happy Holidays Message Card: Spreading Festive Cheer!",
-    slug: "best-happy-holidays-message-card",
-    category: "Holiday-Card-Messages"
+    id: 1733039628041,
+    title: "Warm December Wishes to Send to Loved Ones, Glowing with Holiday Cheer",
+    description: "Comprehensive guide about Warm December Wishes to Send to Loved Ones, Glowing with Holiday Cheer",
+    slug: "warm-december-wishes-to-send-to-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732942857930,
-    title: "Share Joyful Unique Holiday Card Funny Messages This Season",
-    description: "Comprehensive guide about Share Joyful Unique Holiday Card Funny Messages This Season",
-    slug: "unique-holiday-card-funny-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039612713,
+    title: "Glowing Inspirational Message for a Fresh Start in December",
+    description: "Comprehensive guide about Glowing Inspirational Message for a Fresh Start in December",
+    slug: "inspirational-message-for-a-fresh-start-in-december",
+    category: "December-Messages"
   },
   {
-    id: 1732942838781,
-    title: "Merry Employee Holiday Card Messages 2024: Spreading Cheer!",
-    description: "Comprehensive guide about Merry Employee Holiday Card Messages 2024: Spreading Cheer!",
-    slug: "employee-holiday-card-messages-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733039596369,
+    title: "Warming December Celebration Messages for the Holidays",
+    description: "Comprehensive guide about Warming December Celebration Messages for the Holidays",
+    slug: "december-celebration-messages-for-the-holidays",
+    category: "December-Messages"
   },
   {
-    id: 1732942819324,
-    title: "Merry Best Holiday Card Messages 2024: Spreading Joyful Cheer",
-    description: "Comprehensive guide about Merry Best Holiday Card Messages 2024: Spreading Joyful Cheer",
-    slug: "best-holiday-card-messages-2024",
-    category: "Holiday-Card-Messages"
+    id: 1733039580075,
+    title: "Sharing Cheerful December Messages Through Winter's Glow",
+    description: "Comprehensive guide about Sharing Cheerful December Messages Through Winter's Glow",
+    slug: "cheerful-december-messages-to-share-with-everyone",
+    category: "December-Messages"
   },
   {
-    id: 1732942800370,
-    title: "Merry Funny Business Holiday Card Messages for Employees!",
-    description: "Comprehensive guide about Merry Funny Business Holiday Card Messages for Employees!",
-    slug: "funny-business-holiday-card-messages-for-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733039562740,
+    title: "December Farewell Message for Coworkers:  Glowing Warmth & Holiday Cheer",
+    description: "Comprehensive guide about December Farewell Message for Coworkers:  Glowing Warmth & Holiday Cheer",
+    slug: "december-farewell-message-for-coworkers",
+    category: "December-Messages"
   },
   {
-    id: 1732942781055,
-    title: "Creative Best Holiday Messages for Cards:  Merry Wishes & Cheerful Greetings",
-    description: "Comprehensive guide about Creative Best Holiday Messages for Cards:  Merry Wishes & Cheerful Greetings",
-    slug: "creative-best-holiday-messages-for-cards",
-    category: "Holiday-Card-Messages"
+    id: 1733039546787,
+    title: "December Greetings and Wishes for Parents:  Warmest Winter Blessings",
+    description: "Comprehensive guide about December Greetings and Wishes for Parents:  Warmest Winter Blessings",
+    slug: "december-greetings-and-wishes-for-parents",
+    category: "December-Messages"
   },
   {
-    id: 1732942761805,
-    title: "Sparkling Creative Happy Holidays Message Card: Joyful Wishes!",
-    description: "Comprehensive guide about Sparkling Creative Happy Holidays Message Card: Joyful Wishes!",
-    slug: "creative-happy-holidays-message-card",
-    category: "Holiday-Card-Messages"
+    id: 1733039529768,
+    title: "Sweet December Message to My Girlfriend: Warming Winter's Heart",
+    description: "Comprehensive guide about Sweet December Message to My Girlfriend: Warming Winter's Heart",
+    slug: "sweet-december-message-to-my-girlfriend",
+    category: "December-Messages"
   },
   {
-    id: 1732942743203,
-    title: "Share Joyful Unique Work Holiday Card Messages This Season",
-    description: "Comprehensive guide about Share Joyful Unique Work Holiday Card Messages This Season",
-    slug: "unique-work-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039512853,
+    title: "Warm December Greetings for Christmas:  Glowing Hearts & Festive Cheer",
+    description: "Comprehensive guide about Warm December Greetings for Christmas:  Glowing Hearts & Festive Cheer",
+    slug: "warm-december-greetings-for-christmas",
+    category: "December-Messages"
   },
   {
-    id: 1732942725016,
-    title: "Bright Holiday Card Message to Employees Ideas:  Joyful Season's Greetings!",
-    description: "Comprehensive guide about Bright Holiday Card Message to Employees Ideas:  Joyful Season's Greetings!",
-    slug: "holiday-card-message-to-employees-ideas",
-    category: "Holiday-Card-Messages"
+    id: 1733039495621,
+    title: "Merry December Messages Warming Hearts This Season",
+    description: "Comprehensive guide about Merry December Messages Warming Hearts This Season",
+    slug: "merry-december-messages-for-your-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732942706995,
-    title: "Merry Holiday Card Messages Funny for Work:  Spreading Cheer!",
-    description: "Comprehensive guide about Merry Holiday Card Messages Funny for Work:  Spreading Cheer!",
-    slug: "holiday-card-messages-funny-for-work",
-    category: "Holiday-Card-Messages"
+    id: 1733039478867,
+    title: "Warm, Thoughtful December Message for a New Year's Glow",
+    description: "Comprehensive guide about Warm, Thoughtful December Message for a New Year's Glow",
+    slug: "thoughtful-december-message-for-a-new-year",
+    category: "December-Messages"
   },
   {
-    id: 1732942688255,
-    title: "Joyful Holiday Card Messages for Teachers: Spreading Festive Cheer",
-    description: "Comprehensive guide about Joyful Holiday Card Messages for Teachers: Spreading Festive Cheer",
-    slug: "holiday-card-messages-for-teachers",
-    category: "Holiday-Card-Messages"
+    id: 1733039459338,
+    title: "December Message for Family & Friends:  Glowing Warmth Through Winter's Cheer",
+    description: "Comprehensive guide about December Message for Family & Friends:  Glowing Warmth Through Winter's Cheer",
+    slug: "december-message-for-family-and-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732942671479,
-    title: "Bright Business Holiday Card Messages for Employees: Sharing Festive Cheer",
-    description: "Comprehensive guide about Bright Business Holiday Card Messages for Employees: Sharing Festive Cheer",
-    slug: "business-holiday-card-messages-for-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733039441778,
+    title: "Warming December Holiday Messages for Colleagues: Season's Joy!",
+    description: "Comprehensive guide about Warming December Holiday Messages for Colleagues: Season's Joy!",
+    slug: "december-holiday-messages-for-colleagues",
+    category: "December-Messages"
   },
   {
-    id: 1732942652820,
-    title: "Merry Holiday Card Messages:  Joyful Laughter This Season!",
-    description: "Comprehensive guide about Merry Holiday Card Messages:  Joyful Laughter This Season!",
-    slug: "holiday-card-messages-funny",
-    category: "Holiday-Card-Messages"
+    id: 1733039422096,
+    title: "Best December Greetings for Your Team: Warming Hearts This Holiday Season",
+    description: "Comprehensive guide about Best December Greetings for Your Team: Warming Hearts This Holiday Season",
+    slug: "best-december-greetings-for-your-team",
+    category: "December-Messages"
   },
   {
-    id: 1732942632455,
-    title: "Bright Holiday Card Messages to Employees: Festive Cheer!",
-    description: "Comprehensive guide about Bright Holiday Card Messages to Employees: Festive Cheer!",
-    slug: "holiday-card-messages-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733039404617,
+    title: "Joyful December Wishes to Send to Family: Warming Hearts This Holiday",
+    description: "Comprehensive guide about Joyful December Wishes to Send to Family: Warming Hearts This Holiday",
+    slug: "joyful-december-wishes-to-send-to-family",
+    category: "December-Messages"
   },
   {
-    id: 1732942614220,
-    title: "Bright Holiday Card Messages for Staff:  Joyful Season's Greetings!",
-    description: "Comprehensive guide about Bright Holiday Card Messages for Staff:  Joyful Season's Greetings!",
-    slug: "holiday-card-messages-for-staff",
-    category: "Holiday-Card-Messages"
+    id: 1733039388616,
+    title: "Festive December Messages:  Glowing Warmth & Cheer",
+    description: "Comprehensive guide about Festive December Messages:  Glowing Warmth & Cheer",
+    slug: "festive-december-messages-for-the-season",
+    category: "December-Messages"
   },
   {
-    id: 1732942596198,
-    title: "Merry Happy Holidays Message Card: Joyful Wishes This Season",
-    description: "Comprehensive guide about Merry Happy Holidays Message Card: Joyful Wishes This Season",
-    slug: "happy-holidays-message-card",
-    category: "Holiday-Card-Messages"
+    id: 1733039370906,
+    title: "December Birthday Wishes to Send Friends:  Glowing Warmth & Holiday Cheer",
+    description: "Comprehensive guide about December Birthday Wishes to Send Friends:  Glowing Warmth & Holiday Cheer",
+    slug: "december-birthday-wishes-to-send-to-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732942577254,
-    title: "Sharing Joyful Business Holiday Thank You Card Messages",
-    description: "Comprehensive guide about Sharing Joyful Business Holiday Thank You Card Messages",
-    slug: "business-holiday-thank-you-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039354428,
+    title: "Warming December Prayer Message for My Loved Ones, Glowing With Holiday Cheer",
+    description: "Comprehensive guide about Warming December Prayer Message for My Loved Ones, Glowing With Holiday Cheer",
+    slug: "december-prayer-message-for-my-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732942558207,
-    title: "Bright Holiday Card Messages for Boss:  Season's Joyful Cheer!",
-    description: "Comprehensive guide about Bright Holiday Card Messages for Boss:  Season's Joyful Cheer!",
-    slug: "holiday-card-messages-for-boss",
-    category: "Holiday-Card-Messages"
+    id: 1733039336877,
+    title: "New Month and December Wishes Warming His Heart",
+    description: "Comprehensive guide about New Month and December Wishes Warming His Heart",
+    slug: "new-month-and-december-wishes-for-my-boyfriend",
+    category: "December-Messages"
   },
   {
-    id: 1732942539307,
-    title: "Sharing Merry Message on Some Holiday Cards Crossword Clue This Season",
-    description: "Comprehensive guide about Sharing Merry Message on Some Holiday Cards Crossword Clue This Season",
-    slug: "message-on-some-holiday-cards-crossword-clue",
-    category: "Holiday-Card-Messages"
+    id: 1733039320908,
+    title: "December Messages for Happy Holidays:  Glowing with Festive Cheer",
+    description: "Comprehensive guide about December Messages for Happy Holidays:  Glowing with Festive Cheer",
+    slug: "december-messages-for-happy-holidays",
+    category: "December-Messages"
   },
   {
-    id: 1732942520364,
-    title: "Sparkle Bright: Best Holiday Card Messages for Joyful Greetings",
-    description: "Comprehensive guide about Sparkle Bright: Best Holiday Card Messages for Joyful Greetings",
-    slug: "best-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039303692,
+    title: "A Meaningful December Message for My Best Friend:  Winter's Warmest Glow",
+    description: "Comprehensive guide about A Meaningful December Message for My Best Friend:  Winter's Warmest Glow",
+    slug: "meaningful-december-message-for-my-best-friend",
+    category: "December-Messages"
   },
   {
-    id: 1732942501816,
-    title: "Merry Messages on Some Holiday Cards Crossword: Spreading Festive Cheer",
-    description: "Comprehensive guide about Merry Messages on Some Holiday Cards Crossword: Spreading Festive Cheer",
-    slug: "message-on-some-holiday-cards-crossword",
-    category: "Holiday-Card-Messages"
+    id: 1733039284977,
+    title: "Warmth Glowing Through Thoughtful December Message for Family",
+    description: "Comprehensive guide about Warmth Glowing Through Thoughtful December Message for Family",
+    slug: "thoughtful-december-message-for-family",
+    category: "December-Messages"
   },
   {
-    id: 1732942483520,
-    title: "Bright Holidays Messages Greeting Cards: Sharing Festive Cheer",
-    description: "Comprehensive guide about Bright Holidays Messages Greeting Cards: Sharing Festive Cheer",
-    slug: "holidays-messages-greeting-cards",
-    category: "Holiday-Card-Messages"
+    id: 1733039265856,
+    title: "Happy December Messages to my Partner:  Winter's Warm Embrace",
+    description: "Comprehensive guide about Happy December Messages to my Partner:  Winter's Warm Embrace",
+    slug: "happy-december-messages-to-my-partner",
+    category: "December-Messages"
   },
   {
-    id: 1732942463393,
-    title: "Merry Holiday Card Message to Teacher:  Joyful Wishes This Season",
-    description: "Comprehensive guide about Merry Holiday Card Message to Teacher:  Joyful Wishes This Season",
-    slug: "holiday-card-message-to-teacher",
-    category: "Holiday-Card-Messages"
+    id: 1733039249534,
+    title: "Sharing Positive December Messages Through Winter's Glow",
+    description: "Comprehensive guide about Sharing Positive December Messages Through Winter's Glow",
+    slug: "positive-december-message-for-friends-and-family",
+    category: "December-Messages"
   },
   {
-    id: 1732942445062,
-    title: "Sharing Festive Cheer: Holiday Card Message to Employees",
-    description: "Comprehensive guide about Sharing Festive Cheer: Holiday Card Message to Employees",
-    slug: "holiday-card-message-to-employees",
-    category: "Holiday-Card-Messages"
+    id: 1733039232069,
+    title: "Glowing Motivational December Message for the Year Ahead",
+    description: "Comprehensive guide about Glowing Motivational December Message for the Year Ahead",
+    slug: "motivational-december-message-for-the-year-ahead",
+    category: "December-Messages"
   },
   {
-    id: 1732942427440,
-    title: "Merry Holiday Card Funny Messages: Spreading Cheer This Season!",
-    description: "Comprehensive guide about Merry Holiday Card Funny Messages: Spreading Cheer This Season!",
-    slug: "holiday-card-funny-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039215984,
+    title: "Sharing Christmas and December Messages: Season's Sparkling Cheer",
+    description: "Comprehensive guide about Sharing Christmas and December Messages: Season's Sparkling Cheer",
+    slug: "christmas-and-december-messages-for-coworkers",
+    category: "December-Messages"
   },
   {
-    id: 1732942409113,
-    title: "Sharing Joyful Employee Holiday Card Messages This Season",
-    description: "Comprehensive guide about Sharing Joyful Employee Holiday Card Messages This Season",
-    slug: "employee-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039198884,
+    title: "Warming December Greeting to Send to Family, Glowing with Holiday Cheer",
+    description: "Comprehensive guide about Warming December Greeting to Send to Family, Glowing with Holiday Cheer",
+    slug: "warm-december-greeting-to-send-to-family",
+    category: "December-Messages"
   },
   {
-    id: 1732942390235,
-    title: "Bright Business Holiday Card Messages for Joyful Seasons",
-    description: "Comprehensive guide about Bright Business Holiday Card Messages for Joyful Seasons",
-    slug: "business-holiday-card-messages-to-clients",
-    category: "Holiday-Card-Messages"
+    id: 1733039181638,
+    title: "December Birthday Messages Warming Winter Hearts",
+    description: "Comprehensive guide about December Birthday Messages Warming Winter Hearts",
+    slug: "december-birthday-messages-for-loved-ones",
+    category: "December-Messages"
   },
   {
-    id: 1732942371841,
-    title: "Sharing Joyful Boss Holiday Card Messages This Bright Season",
-    description: "Comprehensive guide about Sharing Joyful Boss Holiday Card Messages This Bright Season",
-    slug: "boss-holiday-card-message",
-    category: "Holiday-Card-Messages"
+    id: 1733039163318,
+    title: "Warming Inspirational December Messages for Friends",
+    description: "Comprehensive guide about Warming Inspirational December Messages for Friends",
+    slug: "inspirational-december-messages-for-friends",
+    category: "December-Messages"
   },
   {
-    id: 1732942355148,
-    title: "Bright Work Holiday Card Messages: Sharing Festive Cheer",
-    description: "Comprehensive guide about Bright Work Holiday Card Messages: Sharing Festive Cheer",
-    slug: "work-holiday-card-messages",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942337278,
-    title: "Sending Joyful Holiday Card Messages for a Merry Season",
-    description: "Comprehensive guide about Sending Joyful Holiday Card Messages for a Merry Season",
-    slug: "holiday-card-message-for-boss",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942318780,
-    title: "Merry Funny Business Holiday Card Messages for Clients: Spreading Cheer!",
-    description: "Comprehensive guide about Merry Funny Business Holiday Card Messages for Clients: Spreading Cheer!",
-    slug: "funny-business-holiday-card-messages-for-clients",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942299394,
-    title: "Brightest Best Holiday Messages for Cards: Spreading Festive Cheer",
-    description: "Comprehensive guide about Brightest Best Holiday Messages for Cards: Spreading Festive Cheer",
-    slug: "best-holiday-messages-for-cards",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942281130,
-    title: "Brightest Best Holiday Greeting Card Messages: Sharing Festive Cheer",
-    description: "Comprehensive guide about Brightest Best Holiday Greeting Card Messages: Sharing Festive Cheer",
-    slug: "best-holiday-greeting-card-messages",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942262861,
-    title: "Sending Joyful Holiday Card Messages This Season",
-    description: "Comprehensive guide about Sending Joyful Holiday Card Messages This Season",
-    slug: "holiday-card-messages-for-customers",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942245037,
-    title: "Share Merry Holiday Card Corporate Messages With Joy",
-    description: "Comprehensive guide about Share Merry Holiday Card Corporate Messages With Joy",
-    slug: "holiday-card-corporate-messages",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942223782,
-    title: "Bright Holiday Messages for Cards to Employees:  Season's Joy!",
-    description: "Comprehensive guide about Bright Holiday Messages for Cards to Employees:  Season's Joy!",
-    slug: "holiday-messages-for-cards-to-employees",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942205546,
-    title: "Bright Holiday Card Messages: Sharing Festive Cheer",
-    description: "Comprehensive guide about Bright Holiday Card Messages: Sharing Festive Cheer",
-    slug: "holiday-card-messages-corporate",
-    category: "Holiday-Card-Messages"
-  },
-  {
-    id: 1732942186495,
-    title: "Share Merry Funny Holiday Card Messages!",
-    description: "Comprehensive guide about Share Merry Funny Holiday Card Messages!",
-    slug: "funny-holiday-card-messages",
-    category: "Holiday-Card-Messages"
+    id: 1733039145379,
+    title: "Heartfelt December Message for My Love:  Winter's Warm Embrace",
+    description: "Comprehensive guide about Heartfelt December Message for My Love:  Winter's Warm Embrace",
+    slug: "heartfelt-december-message-for-my-love",
+    category: "December-Messages"
   }
   // ... data dari questions.ts
 ];
